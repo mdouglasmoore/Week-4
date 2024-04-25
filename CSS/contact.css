@@ -1,0 +1,38 @@
+body{
+    background-image: url(./Photos/pexels-gdtography-911738\ \(1\).jpg);
+    min-height: 800px;
+}
+
+.backgroundContainer{
+background-color: rgb(255, 255, 255);
+min-height: 1500px;
+}
+
+.bg-body-tertiary{
+background-color: white !important;
+}  
+
+.container{
+    min-height: 600px;
+    width: 500px;
+    /* border: 1px solid rgb(171, 171, 171); */
+    border-radius: 15px;
+    margin-top: 140px;
+    background-color: white;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 104px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+.form-label{
+    padding-left: 131px;
+    margin-top: 20px;
+}
+
+#sendButton{
+    margin-top: 10px;
+}

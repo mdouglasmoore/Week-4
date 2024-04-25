@@ -1,0 +1,123 @@
+body{
+    margin: 0%;
+}
+
+
+.blackButtons{
+    width: 200px;
+    height: 40px;
+    border: 0px;
+    border-radius: 0%;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.contact{
+    height: 40px;
+    width: 200px;
+    border-radius: 0%;
+    border: 0px;
+}
+
+button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.buttonOne:hover{
+    background-color: rgb(255, 179, 64);
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    min-height: 500px;
+    padding-top: 120px;
+}
+
+.threeBoxes{
+    border: 1px solid #ffffff;
+    min-height: 600px;
+    min-width: 360px;
+    background-color: white;
+}
+
+#firstBox{
+    background-image: url('../Photos/gold-2889423_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: 110vh;
+}
+
+.pBoxOne{
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 70px;
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    padding-left: 68px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#fullStack{
+    padding-top: 23px;
+}
+
+#secondBox{
+    background-image: url('../Photos/Portfolio\ touchup.jpg');
+    background-repeat: no-repeat;
+    background-size: 75vh;
+
+}
+
+.thirdBoxContent{
+    height: 300px;
+    padding: 50px;
+}
+
+h2{
+    color: rgb(180, 180, 180);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+#pBoxThree{
+    color: rgb(180, 180, 180);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.seperator{
+    border: 1px solid rgb(180, 180, 180);
+}
+
+.socialMedia{
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 40px;
+}
+
+.links{
+    height: 50px;
+    width: 50px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
